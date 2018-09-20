@@ -1,0 +1,4 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=60944:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/ericdias/IdeaProjects/silo/out/production/silo Main
+During this 28 day period of drought, each person MUST save 19.112115967210602 gallons of water each day.
+
+Process finished with exit code 0
